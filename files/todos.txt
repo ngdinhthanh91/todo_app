@@ -1,0 +1,4 @@
+clean
+learn
+walk
+wake up
