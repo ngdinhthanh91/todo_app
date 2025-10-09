@@ -1,5 +1,9 @@
 clean
-learn
+study
 walk
 wake up
-Master Python
+run
+sleep
+rest
+
+wakeup
