@@ -5,5 +5,5 @@ wake up
 run
 sleep
 rest
-
+play
 wakeup
