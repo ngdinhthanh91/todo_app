@@ -1,9 +1,7 @@
 clean
 study
 walk
-wake up
 run
 sleep
 rest
 play
-wakeup
