@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Project directories
+bonus/
+experiments/
+build/
+files/
+
+# Python files
+main.py
+gui.spec
+web.py
+dist/todos.txt
